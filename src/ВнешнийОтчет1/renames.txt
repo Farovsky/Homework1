@@ -1,0 +1,9 @@
+﻿a23285ce-f78f-40bf-83ef-738c6dc3fb79-->und\a23285ce-f78f-40bf-83ef-738c6dc3fb79
+a23285ce-f78f-40bf-83ef-738c6dc3fb79.0-->und\a23285ce-f78f-40bf-83ef-738c6dc3fb79.0
+copyinfo-->und\copyinfo
+da48fe98-f2da-45cf-9987-1f1c1f76b545.0\info-->und\da48fe98-f2da-45cf-9987-1f1c1f76b545.0\info
+da48fe98-f2da-45cf-9987-1f1c1f76b545.0\text-->ObjectModule.bsl
+f0fe85f2-0a3f-4eaf-86f8-79ef27bc537e-->und\f0fe85f2-0a3f-4eaf-86f8-79ef27bc537e
+root-->und\root
+version-->und\version
+versions-->und\versions
