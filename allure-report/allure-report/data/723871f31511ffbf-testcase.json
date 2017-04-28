@@ -1,0 +1,107 @@
+{
+  "uid" : "723871f31511ffbf",
+  "name" : "UnknownTestCase",
+  "title" : "Unknown test case",
+  "time" : {
+    "start" : 63628978645736,
+    "stop" : 63628978646605,
+    "duration" : 869
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "6d3e09c56af2ed51",
+    "name" : "РасчетВозрастаЧеловекаВМесяцах",
+    "title" : "РасчетВозрастаЧеловекаВМесяцах"
+  },
+  "steps" : [ {
+    "name" : "Допустим У меня есть Физлицо с кодом \"000000001\"",
+    "title" : "Допустим У меня есть Физлицо с кодом \"000000001\"",
+    "time" : {
+      "start" : 63628978645992,
+      "stop" : 63628978645992,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И Дата рождения равна '19671010'",
+    "title" : "И Дата рождения равна '19671010'",
+    "time" : {
+      "start" : 63628978646196,
+      "stop" : 63628978646196,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И Дата документа равна '20170331'",
+    "title" : "И Дата документа равна '20170331'",
+    "time" : {
+      "start" : 63628978646401,
+      "stop" : 63628978646401,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда Возраст физлица в месяцах должен быть равен 593",
+    "title" : "Тогда Возраст физлица в месяцах должен быть равен 593",
+    "time" : {
+      "start" : 63628978646605,
+      "stop" : 63628978646605,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "РасчетВозрастаЧеловекаВМесяцах"
+  }, {
+    "name" : "story",
+    "value" : ""
+  }, {
+    "name" : "feature",
+    "value" : "РасчетВозрастаЧеловекаВМесяцах"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}
